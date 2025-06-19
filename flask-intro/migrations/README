@@ -1,0 +1,7 @@
+<!-- Querying database -->
+ <!-- sql(structured query language) -->
+  insert => adding new record
+  update
+  delete
+  select =>SELECT * from database_name
+  
