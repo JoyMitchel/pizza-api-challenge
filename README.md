@@ -2,7 +2,7 @@
 
 # 🍕 Pizza Restaurant API Challenge
 
-A RESTful API built using Flask that allows clients to interact with data about pizza restaurants and the pizzas they offer. This project uses the MVC architecture with Flask, SQLAlchemy, and Flask-Migrate. No frontend is required — the API is tested using Postman.
+A API built using Flask that allows clients to interact with data about pizza restaurants and the pizzas they offer. This project uses the MVC architecture with Flask, SQLAlchemy, and Flask-Migrate. No frontend is required — the API is tested using Postman.
 
 ---
 
